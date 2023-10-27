@@ -1,0 +1,1 @@
+Necessary and important variables
